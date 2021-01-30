@@ -1,0 +1,9 @@
+pip install pyinstaller
+pyinstaller --onefile -w eggcatcher.py
+
+--onefile.
+-w to remove console.
+
+download NSIS (Nullsoft Scriptable Install System)
+
+https://sourceforge.net/projects/nsis/files/NSIS%203/3.06.1/nsis-3.06.1-setup.exe/download?use_mirror=nchc&r=https%3A%2F%2Fnsis.sourceforge.io%2FDownload&use_mirror=nchc
